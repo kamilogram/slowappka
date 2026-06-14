@@ -366,7 +366,7 @@ export default function StartScreen({
 
   return (
     <div className="start-screen">
-      <div className="version-badge">v2025-01-20</div>
+      <div className="version-badge">v2025-04-16</div>
       <div className="start-card">
         <h1>🎯 Słowappka</h1>
         <p className="start-description">Wybierz pakiety słówek, które chcesz ćwiczyć lub wklej własne:</p>
