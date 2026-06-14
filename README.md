@@ -1,27 +1,22 @@
-# React + Vite
+# Slowappka
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Reactowa aplikacja Vite do nauki slowek i zdan z lokalnych pakietow JSON oraz wlasnych zestawow zapisanych w przegladarce.
 
-Currently, two official plugins are available:
+## Komendy
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+npm install
+npm run dev
+npm run build
+npm run preview
+npm run lint
+```
 
-## React Compiler
+## Struktura
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- `src/` - kod aplikacji React.
+- `src/data/` - wbudowane zestawy importowane bezposrednio w aplikacji.
+- `sets/` - lokalne pakiety JSON ladowane przez `import.meta.glob('/sets/*.json')`.
+- `dist/` - zbudowana wersja publikowana przez GitHub Pages.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-param($minutes = 9999)
-
-$myShell = New-Object -com "Wscript.Shell"
-write-host "Starting saver at $(Get-Date), minutes: $($minutes)"
-
-for ($i = 0; $i -lt $minutes; $i++) {
-  Start-Sleep -Seconds 290
-  $myShell.sendkeys("{F13}")
-  write-host "Saved at $(Get-Date), minutes: $($minutes), iterations: $($i)"
-}
+Wlasne zestawy tworzone w aplikacji sa przechowywane w `localStorage`.
