@@ -120,7 +120,12 @@ export function useGameLogic() {
             'Angielski': 'en-US',
             'Hiszpański': 'es-ES',
             'Włoski': 'it-IT',
-            'Francuski': 'fr-FR'
+            'Francuski': 'fr-FR',
+            'pl': 'pl-PL',
+            'en': 'en-US',
+            'es': 'es-ES',
+            'it': 'it-IT',
+            'fr': 'fr-FR'
           };
           detectedLanguage = langMap[pkg.language] || 'pl-PL';
           console.log(`Detected language: ${pkg.language} -> ${detectedLanguage}`);
@@ -143,7 +148,12 @@ export function useGameLogic() {
               'Angielski': 'en-US',
               'Hiszpański': 'es-ES',
               'Włoski': 'it-IT',
-              'Francuski': 'fr-FR'
+              'Francuski': 'fr-FR',
+              'pl': 'pl-PL',
+              'en': 'en-US',
+              'es': 'es-ES',
+              'it': 'it-IT',
+              'fr': 'fr-FR'
             };
             detectedLanguage = langMap[set.language] || 'pl-PL';
             console.log(`Detected language from remote: ${set.language} -> ${detectedLanguage}`);
