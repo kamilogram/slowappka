@@ -121,7 +121,6 @@ export default function MainApp({
 
         <select
           id="answer-lang-select"
-          style={{ display: 'none' }} // Hidden in original UI unless needed, actually it was hidden in HTML: style="display:none;"
           value={answerLanguage}
           onChange={(e) => setAnswerLanguage(e.target.value)}
         >

@@ -36,7 +36,7 @@ export function useGameLogic() {
   const [remoteSets, setRemoteSets] = useState([]);
   const [selectedPackages, setSelectedPackages] = useState([]);
   const [customWordsInput, setCustomWordsInput] = useState('');
-  const [answerLanguage, setAnswerLanguage] = useState('en-US');
+  const [answerLanguage, setAnswerLanguage] = useState('pl-PL');
 
   // Refs for timers to avoid closure staleness
   const autoTimerRef = useRef(null);
@@ -86,6 +86,7 @@ export function useGameLogic() {
     console.log('Custom words raw:', customWordsRaw ? 'provided' : 'none');
     
     let newCombined = [];
+    let detectedLanguage = 'pl-PL';
     
     // Track which sources are currently selected
     const selectedSources = new Set();
@@ -111,6 +112,19 @@ export function useGameLogic() {
       if (pkg) {
         console.log(`Adding local package: ${pkg.name} (${pkg.data.length} words)`);
         newCombined.push(...pkg.data.map(w => ({ ...w, source: `local-${id}` })));
+        
+        // Detect language from first selected package
+        if (selectedIds.indexOf(id) === 0) {
+          const langMap = {
+            'Polski': 'pl-PL',
+            'Angielski': 'en-US',
+            'Hiszpański': 'es-ES',
+            'Włoski': 'it-IT',
+            'Francuski': 'fr-FR'
+          };
+          detectedLanguage = langMap[pkg.language] || 'pl-PL';
+          console.log(`Detected language: ${pkg.language} -> ${detectedLanguage}`);
+        }
       }
     });
 
@@ -121,6 +135,19 @@ export function useGameLogic() {
         if (set && set.words) {
           console.log(`Adding remote set: ${name} (${set.words.length} words)`);
           newCombined.push(...set.words.map(w => ({ ...w, source: `remote-${name}` })));
+          
+          // Detect language from first remote set if no local packages selected
+          if (selectedIds.length === 0 && remoteSetNames.indexOf(name) === 0) {
+            const langMap = {
+              'Polski': 'pl-PL',
+              'Angielski': 'en-US',
+              'Hiszpański': 'es-ES',
+              'Włoski': 'it-IT',
+              'Francuski': 'fr-FR'
+            };
+            detectedLanguage = langMap[set.language] || 'pl-PL';
+            console.log(`Detected language from remote: ${set.language} -> ${detectedLanguage}`);
+          }
         }
       } catch (e) {
         console.error(`Failed to load remote set ${name}`, e);
@@ -159,6 +186,10 @@ export function useGameLogic() {
     }
 
     setCombinedWords(newCombined);
+    
+    // Set detected language globally
+    setAnswerLanguage(detectedLanguage);
+    console.log(`Answer language set to: ${detectedLanguage}`);
 
     // Clear used history when starting new game to avoid mixing old data
     setUsed([]);
