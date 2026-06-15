@@ -1,0 +1,537 @@
+========================================
+PORÓWNANIE SŁÓW I ZWROTÓW - WERSJA 2
+========================================
+
+Plik TXT: slowa_z_bitmap_wszystkie.txt
+Plik JSON: brakujące definicje z kartki 1.json
+(porównywane są "answer" z pliku JSON)
+
+========================================
+SŁOWA W PLIKU TXT, KTÓRYCH NAPRAWDĘ BRAKUJE W JSON
+(po wykluczeniu wariantów zapisu: 241 słów/zwrotów)
+========================================
+
+abstynent
+adaptować
+afisz
+agregować
+aklimatyzować się
+aktywować
+algorytmiczny
+allah islam
+alpaka
+amfiteatr
+analfabeta
+anglicyzmy
+antrakt
+antresola
+archiwizować
+arytmetyczny
+asynchroniczny
+autorytaryzm
+autorytet
+brawura
+budda
+bufor
+carlos santana
+celebryta
+cyborg
+defilada
+deklaracje
+dekorator
+demencja
+demonstracje
+detektyw
+determinować
+dociekliwy
+domena
+dostojny
+dozorca
+dyplomata
+dystrybuować
+dywersyfikować
+edward norton
+ekshibicjonista
+ekspozycja
+elastyczny
+elitarny
+elokwencja
+elvis presley
+estetyczny
+estymować
+fałszować
+fetysz
+frank sinatra
+freelancer
+garderoba
+gimbal
+grupować
+gwałtowny
+harpagan
+hedonista
+hinduizm
+hycel
+hydrauliczny
+iluzjonista
+imigrant
+immanentny
+implementować
+impregnować
+inspektor
+instancja
+instruktor
+instrumentalnie
+integralny
+intelektualny
+intencja
+intencja
+interfejs
+interwał czasowy
+irygator
+iteracja
+jack sparrow
+janis joplin
+jeniec
+kaskader
+kate winslet
+klarowny
+klaustrofobia
+kleptomania
+kloszard
+kombinerki
+konfident
+konfigurować
+konsensus
+kontrolery
+koordynacja
+koordynator
+korowód
+kortez
+kosmetyczny
+kotylion
+kryptowaluta
+krzewić
+kurort
+kurtuazja
+kwerenda
+kwintesencja
+laicki
+lakoniczny
+landara
+lukratywny
+luksus
+maszt komórkowy
+mcgyver
+mediator
+melamina
+melancholia
+merytoryczny
+mikroport
+mnemotechnika
+moczydło
+modelowo
+monolit
+monolit
+monolityczny
+montesori
+mozolnie
+myśliwy
+nakłonić
+niekonwencjonalny
+nietrywialne
+nonszalancki
+norah jones
+obsłużyć
+open space
+opinia publiczna
+opracować
+origami
+orkiestracja
+outsourcing
+overlapować
+pachwina
+pacyfikować
+pantomima
+parada
+paradygmat
+parsować
+periodyk
+pełnomocnictwo
+pietyzm
+pień
+pigmej
+pigment
+plemiona
+populacja
+portier
+posejdon
+potęgować
+pozycjonowanie stron
+pożyteczny
+pragmatyczny
+precedens
+prestiżowy
+procesować
+produktywny
+prowincja
+przejrzystość
+przepukliny
+przesłanka
+przyzwoity
+redundancja
+regresja
+rekompensować
+rekurencja
+reprodukować błąd
+restrykcyjny
+rewitalizować
+rezerwar
+rezolutny
+rzetelnie
+rzetelny
+rzutować
+safari
+schludnie
+scyzoryk
+semantyczny
+seo
+serpentyna
+sherlock holmes
+skalować
+skaryszew
+skomasowany
+skonsolidować
+snob
+socjopata
+specyfikacja
+spektakularny
+spójny
+statysta
+synchronizować
+syntetyczny
+szarlatan
+szewnica
+szkielet
+sztylet
+tabloid
+tapirować
+tekstura 3d
+teleportacja
+termy
+tkanka
+toksyczny związek
+transcendentalny
+triggerować
+tropikalny
+tyran
+unikatowy
+uniwersalny
+upiorny
+upośledzony
+uwierzytelniać
+uzsystematyzować
+wernisaż
+wersjonować
+wizyta adaptacyjna np. u dentysty
+wspólnej drogi
+wszechstronny
+wydajny
+wypaczony
+wędzidło
+zacietrzewienie
+zagnieżdżony
+zakwitać
+zamaszyście
+zapobiegliwy
+zaszpachlować
+zegrze
+zjawisko
+złudzenie
+zmapować
+zmotywować
+zredukować
+zrehabilitować się
+zwyrodnienia
+ścięgno
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================
+SŁOWA WYSTĘPUJĄCE W OBU PLIKACH ALE Z RÓŻNICAMI W ZAPISIE
+(44 pary słów/zwrotów)
+========================================
+
+TXT: alienować → JSON: alienować, izolować, odseparować
+TXT: aryjski → JSON: aryjskie
+TXT: atrapa → JSON: atrapa, imitacja
+TXT: bezprecedensowy → JSON: precedens
+TXT: castorama → JSON: castorama, obi, leroy merlin
+TXT: demagogia → JSON: demagogia, populizm
+TXT: dogmat → JSON: dogmaty
+TXT: durszlak cedzak → JSON: durszlak
+TXT: frapujący → JSON: frapujący, intrygujący
+TXT: impostor syndrome → JSON: impostor-syndrome
+TXT: intrygujący → JSON: frapujący, intrygujący
+TXT: klauzula sumienia → JSON: klauzula
+TXT: koordynacja → JSON: ordynacja
+TXT: kuchnia fusion → JSON: fusion
+TXT: leroy merlin → JSON: castorama, obi, leroy merlin
+TXT: mania → JSON: kleptomania
+TXT: materializować się → JSON: zmaterializować się
+TXT: miraż → JSON: fatamorgana, miraż
+TXT: natarczywy → JSON: natarczywy, natrętny
+TXT: natrętny → JSON: natarczywy, natrętny
+TXT: obcęgi → JSON: obcęgi, kobminerki
+TXT: obi → JSON: spadkobiercy
+TXT: obsesja → JSON: obsesja, mania
+TXT: odmęty absurdu → JSON: odmęty
+TXT: odseparowany → JSON: odseparowany, wyalienowany, odizolowany
+TXT: passive aggressive → JSON: passive-aggressive
+TXT: peleryna (słowo występuje dwukrotnie obok siebie) → JSON: peleryna
+TXT: polecić → JSON: zarekomendować, polecić
+TXT: populizm → JSON: demagogia, populizm
+TXT: pozycja embrionalna → JSON: embrionalna
+TXT: prestiż → JSON: prestiżowe
+TXT: prototyp → JSON: prototype
+TXT: rekomendacja → JSON: komenda
+TXT: rekomendować → JSON: zarekomendować, polecić
+TXT: rekompensować → JSON: kompensować
+TXT: rocket-science → JSON: rocket science
+TXT: rozprzestrzenić się → JSON: zen
+TXT: skalować → JSON: eskalować
+TXT: slang → JSON: żargon, slang
+TXT: snob → JSON: snobizm
+TXT: ukulele → JSON: ukulele, banjo, mandolina
+TXT: ustabilizować → JSON: stabilizować
+TXT: złudzenie → JSON: zen
+TXT: żargon → JSON: żargon, slang
+
+========================================
+SŁOWA W PLIKU JSON, KTÓRYCH BRAKUJE W TXT
+(123 słów/zwrotów)
+========================================
+
+agonia
+aklimatyzacja
+albinos
+alienować, izolować, odseparować
+alpaki
+ampułka
+anarchia
+antysemityzm
+artystyczne
+aryjskie
+asocjacja
+asygnować
+atrapa, imitacja
+bagnet
+bezprecedensowe
+bieżnik na stole
+bisekcja
+castorama, obi, leroy merlin
+cedzak, durszlak, sitko
+ceremonia
+chojrak
+dawka uderzeniowa
+deklaracja
+demagog
+demagogia, populizm
+demonstracja
+dogmaty
+dostojnie
+durszlak
+egzorcysta
+egzorcyzmy
+ekscentryk
+ekskluzywny
+embrionalna
+faszerować
+fatamorgana, miraż
+faza
+frapujący, intrygujący
+fusion
+girlandy
+gorgonzola
+grupowanie
+halucynacje
+handel
+hipnotyzować
+hydrauliczne
+idealista
+impostor-syndrome
+impregnacja
+instrumentalny
+insynuować
+intelektualnie
+intonacja
+inwektywy
+jeep
+jeńcy
+kamper
+kanarek
+kaskadowe
+koktajl
+kompensować
+kondycja
+konfabulacja
+konferansjer
+kontury
+krzepa
+kurtuazyjny
+lakonicznie
+makaronizmy
+marcepan
+maszt (komórkowy)
+mnemonotechnika
+montessori
+mozolny
+natarczywy, natrętny
+nekrolog
+niechlujny
+niesforny
+obcęgi, kobminerki
+obelżywe
+obsesja, mania
+odmęty
+odseparowany, wyalienowany, odizolowany
+passive-aggressive
+pendolino
+pistacje
+porywczy
+prestiżowe
+prototype
+pryzmat
+przepuklina
+przesłanki
+przyczepa kempingowa
+radykalnie
+recepta
+refinement
+refleksyjny
+rekomendacje
+renata
+restrykcyjne
+rewizja (w łazience)
+rezerwuar
+rezonować
+rocket science
+rozprzestrzeniać się
+schizofrenik
+scrabble
+serpentyny
+snobizm
+solówka
+stodoła
+strugać
+toksyczny (związek)
+tortur sala
+transcendentalne
+tuńczyk, łosoś
+ukulele, banjo, mandolina
+upośledzone
+urojenia
+witolin
+wspólna droga
+wykrwawić
+wyśmienicie
+zarekomendować, polecić
+zen
+zmaterializować się
+zwyrodnienie
+żargon, slang
+
+========================================
+PODSUMOWANIE
+========================================
+
+Słowa naprawdę brakujące w JSON: 241
+Słowa z różnicami w zapisie: 44
+Słowa tylko w JSON: 123
