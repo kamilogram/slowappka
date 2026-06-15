@@ -18,7 +18,6 @@ charyzma
 meritum
 dociekliwy
 laicki
-laicki
 przyzwoity
 determinacja
 monolit

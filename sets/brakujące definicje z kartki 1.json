@@ -20,7 +20,7 @@
       "answer": "kaszanka"
     },
     {
-      "hint": "Zwyrodnienie lub uszkodzenie tkanek, zwykle w wyniku choroby lub starzenia się.",
+      "hint": "Uszkodzenie tkanek, zwykle w wyniku choroby lub starzenia się.",
       "answer": "zwyrodnienie"
     },
     {
@@ -32,7 +32,7 @@
       "answer": "dyskopatia"
     },
     {
-      "hint": "Określenie leczenia lub metody mającej działanie lecznicze.",
+      "hint": "Sposób leczenia lub metody mającej działanie lecznicze.",
       "answer": "terapeutyczny"
     },
     {
@@ -48,11 +48,11 @@
       "answer": "tomografia"
     },
     {
-      "hint": "Usuwanie drobnoustrojów z powierzchni lub narzędzi w celu zachowania sterylności.",
+      "hint": "Usuwać drobnoustroje z powierzchni lub narzędzi w celu zachowania sterylności.",
       "answer": "sterylizować"
     },
     {
-      "hint": "Odczuwający zakłopotanie lub niepewność w danej sytuacji.",
+      "hint": "Odczuwający niepewność w danej sytuacji.",
       "answer": "zakłopotany"
     },
     {
@@ -72,7 +72,7 @@
       "answer": "sequel"
     },
     {
-      "hint": "Przedmiot używany podczas realizacji filmu lub przedstawienia teatralnego.",
+      "hint": "Przedmiot używany podczas przedstawienia teatralnego.",
       "answer": "rekwizyt"
     },
     {
@@ -80,12 +80,12 @@
       "answer": "wolta"
     },
     {
-      "hint": "Polski serial komediowy będący parodią programów telewizyjnych.",
+      "hint": "Polski serial komediowy improwizowany.",
       "answer": "Spadkobiercy"
     },
     {
-      "hint": "Technika zapamiętywania poprzez skojarzenia, rytm lub obrazy mentalne.",
-      "answer": "mnemonotechnika"
+      "hint": "Sposób zapamiętywania poprzez skojarzenia, rytm lub obrazy mentalne.",
+      "answer": "mnemotechnika"
     },
     {
       "hint": "Związany z procesami poznawczymi, takimi jak myślenie i pamięć.",
@@ -120,7 +120,7 @@
       "answer": "narkolepsja"
     },
     {
-      "hint": "Osoba z ograniczonymi zdolnościami fizycznymi lub umysłowymi.",
+      "hint": "Ograniczenie zdolności fizycznych lub umysłowych.",
       "answer": "upośledzone"
     },
     {
@@ -148,7 +148,7 @@
       "answer": "medytacja"
     },
     {
-      "hint": "Osoba działająca z desperacji, pozbawiona nadziei i zdeterminowana.",
+      "hint": "Osoba działająca bezmyślnie, pozbawiona nadziei i zdeterminowana.",
       "answer": "zdesperowany"
     },
     {
@@ -200,7 +200,7 @@
       "answer": "impostor-syndrome"
     },
     {
-      "hint": "Czapka z daszkiem, często noszona przez mężczyzn jako element eleganckiego ubioru.",
+      "hint": "Czapka męska z przeszłości.",
       "answer": "kaszkiet"
     },
     {
@@ -212,7 +212,7 @@
       "answer": "narracja"
     },
     {
-      "hint": "Miejsce akcji wydarzeń w filmie, książce lub grze.",
+      "hint": "Miejsce wydarzeń w filmie, książce lub grze.",
       "answer": "sceneria"
     },
     {
