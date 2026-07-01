@@ -19,7 +19,7 @@
     { "answer": "analfabeta", "hint": "osoba nieumiejąca czytać ani pisać" },
     { "answer": "anglicyzmy", "hint": "wyrazy lub zwroty zapożyczone z języka angielskiego" },
     { "answer": "antrakt", "hint": "przerwa między aktami w spektaklu lub koncercie" },
-    { "answer": "antresola", "hint": "dodatkowa półpiętro lub galeria w pomieszczeniu" },
+    { "answer": "antresola", "hint": "dodatkowe półpiętro lub galeria w pomieszczeniu" },
     { "answer": "archiwizować", "hint": "przechowywać stare dokumenty lub dane" },
     { "answer": "arytmetyczny", "hint": "związany z działaniami matematycznymi jak dodawanie, odejmowanie" },
     { "answer": "asynchroniczny", "hint": "niezależny czasowo, niewymagający jednoczesnego działania" },
@@ -78,7 +78,7 @@
     { "answer": "instrumentalnie", "hint": "z wykorzystaniem narzędzi lub traktując kogoś jako środek" },
     { "answer": "integralny", "hint": "stanowiący nieodłączną część całości" },
     { "answer": "intelektualny", "hint": "związany z myśleniem i rozwojem umysłowym" },
-    { "answer": "intencja", "hint": "zamiar, cel jakiego działania" },
+    { "answer": "intencja", "hint": "zamiar, cel jakiegoś działania" },
     { "answer": "interfejs", "hint": "powierzchnia umożliwiająca komunikację między systemami" },
     { "answer": "interwał czasowy", "hint": "odstęp czasowy między dwoma momentami" },
     { "answer": "irygator", "hint": "urządzenie do płukania jamy ustnej strumieniem wody" },
@@ -126,7 +126,7 @@
     { "answer": "modelowo", "hint": "wzorowo, idealnie, według schematu" },
     { "answer": "monolit", "hint": "jednolita zwarta bryła lub struktura" },
     { "answer": "monolityczny", "hint": "jednolity, nierozdzielny, zwartej struktury" },
-    { "answer": "montesori", "hint": "metoda edukacyjna oparta na samodzielności dziecka" },
+    { "answer": "metoda Montessori", "hint": "metoda edukacyjna oparta na samodzielności dziecka" },
     { "answer": "mozolnie", "hint": "pracowicie, z trudem i wysiłkiem" },
     { "answer": "myśliwy", "hint": "osoba polująca na zwierzęta" },
     { "answer": "nakłonić", "hint": "skłonić kogoś do czegoś, namówić" },
@@ -207,7 +207,7 @@
     { "answer": "szkielet", "hint": "układ kostny organizmu lub konstrukcja nośna" },
     { "answer": "sztylet", "hint": "krótka broń biała o ostrzu obusiecznym" },
     { "answer": "tabloid", "hint": "gazeta o charakterze sensacyjnym" },
-    { "answer": "tapirować", "hint": "pokrywać ściany tapetą" },
+    { "answer": "tapirować", "hint": "nadawać włosom objętość przez ich podczesywanie" },
     { "answer": "tekstura 3d", "hint": "obraz nakładany na modele trójwymiarowe" },
     { "answer": "teleportacja", "hint": "natychmiastowe przeniesienie w inne miejsce" },
     { "answer": "termy", "hint": "starożytne rzymskie łaźnie publiczne" },
@@ -222,7 +222,7 @@
     { "answer": "upiorny", "hint": "przerażający, budzący grozę" },
     { "answer": "upośledzony", "hint": "o ograniczonych zdolnościach fizycznych lub umysłowych" },
     { "answer": "uwierzytelniać", "hint": "potwierdzać tożsamość użytkownika w systemie" },
-    { "answer": "uzsystematyzować", "hint": "uporządkować według logicznego systemu" },
+    { "answer": "usystematyzować", "hint": "uporządkować według logicznego systemu" },
     { "answer": "wernisaż", "hint": "uroczyste otwarcie wystawy artystycznej" },
     { "answer": "wersjonować", "hint": "zarządzać kolejnymi wersjami plików lub kodu" },
     { "answer": "wizyta adaptacyjna np. u dentysty", "hint": "pierwsza wizyta zapoznawcza przed właściwym leczeniem" },
@@ -247,5 +247,5 @@
     { "answer": "zwyrodnienia", "hint": "patologiczne zmiany w organizmie" },
     { "answer": "ścięgno", "hint": "tkanka łącząca mięsień z kością" }
   ],
-  "count": 256
+  "count": 243
 }

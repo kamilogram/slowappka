@@ -113,7 +113,7 @@
     },
     {
       "hint": "Doradzono mi, żeby poczekać z decyzją.",
-      "answer": "I was advised to wait with the decision."
+      "answer": "I was advised to wait before making the decision."
     },
     {
       "hint": "To był mój dawny nauczyciel angielskiego.",
@@ -313,7 +313,7 @@
     },
     {
       "hint": "Pozwolono mu wejść do środka.",
-      "answer": "He was allowed to enter inside."
+      "answer": "He was allowed to enter."
     },
     {
       "hint": "Obrazek wciąż wisiał na ścianie.",
@@ -325,7 +325,7 @@
     },
     {
       "hint": "Na stole leżał owoc.",
-      "answer": "There was a fruit lying on the table."
+      "answer": "There was a piece of fruit on the table."
     },
     {
       "hint": "Postawił walizkę obok drzwi.",
@@ -409,7 +409,7 @@
     },
     {
       "hint": "Doradzono mi, żeby poczekać z decyzją do jutra.",
-      "answer": "I was advised to wait with the decision until tomorrow."
+      "answer": "I was advised to wait until tomorrow before making the decision."
     },
     {
       "hint": "To był mój dotychczasowy sposób działania.",
