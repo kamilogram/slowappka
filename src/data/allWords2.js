@@ -190,7 +190,7 @@ const allWords2 = [
   { answer: "konwencja", hint: "przyjęta forma lub zasada działania" },
   { answer: "korporacja taksówkarska", hint: "zrzeszenie kierowców wożących ludzi pod wspólną marką" },
   { answer: "kostium", hint: "strój sceniczny lub kąpielowy" },
-  { answer: "koturny", hint: " buty na bardzo wysokiej, grubej podeszwie lub obcasie" },
+  { answer: "koturny", hint: "buty na bardzo wysokiej, grubej podeszwie lub obcasie" },
   { answer: "kpina", hint: "złośliwe naśmiewanie się" },
   { answer: "krzepa", hint: "duża siła fizyczna, moc" },
   { answer: "ksenofobia", hint: "lęk lub niechęć wobec obcych" },
